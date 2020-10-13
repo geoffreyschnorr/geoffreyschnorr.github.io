@@ -1,11 +1,10 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Geoffrey Schnorr"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
-    logo = "raoProfilePic2.jpg" 
-    
+    shortbio = "PhD Candidate, Economics, Univeristy of California-Davis"
+    logo = "headshot_ucd.jpg" 
