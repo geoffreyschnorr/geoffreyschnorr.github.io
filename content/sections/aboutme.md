@@ -1,7 +1,5 @@
-I am an Associate Professor at the [Department of Economics](http://economics.harvard.edu/) at Harvard University. I graduated from UC Berkeley with a PhD in Economics in 2014. 
+I am a 6th year PhD Candidate in the [Department of Economics](https://economics.ucdavis.edu/) at UC-Davis. I also work as a Graduate Student Assistant at California's Employment Development Department for the [California Policy Lab](https://www.capolicylab.org/).
 
-My research tries to bring insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. Recent projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
+My primary research interests are related to the design of social insurance and safety programs. I am also interested in the economics of health behaviors. My recent work on the Unemployment Insurance program in the US has been funded by the [Washington Center for Equitable Growth](https://equitablegrowth.org/) and the Bilinski Educational Foundation.
 
-I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). I serve as an Associate Editor at the *Journal of Political Economy*. Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. 
-
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated June 2020)
+__[Curriculum Vitae](/pdf/schnorr_cv_6oct2020.pdf")__ (Updated October 2020)
