@@ -1,10 +1,10 @@
 relativeURLs = true
-title = "Geoffrey Schnorr"
+title = "Geoffrey C. Schnorr"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD Candidate, Economics, Univeristy of California-Davis"
-    logo = "headshot_ucd.jpg" 
+    shortbio = "PhD Candidate, UC-Davis"
+    logo = "headshot_ucd.jpg"
