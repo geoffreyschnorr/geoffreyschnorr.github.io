@@ -1,5 +1,9 @@
 works:
-
+- title: "Claim Timing and Unemployment Insurance Benefit Generosity"
+  note: "Draft coming soon"
+  book: "Job Market Paper"
+  abstract: >
+    Unemployment Insurance replaces a percentage of prior earnings while a claimant is out of work. To implement the program, policymakers must define a base period from which prior earnings are measured. I analyze two implications of this previously unexamined policy choice. First, for claimants with volatile enough earnings, a commonly used base period structure creates ``benefit risk''---a job loss at the wrong time implies lower benefit amounts. Second, since base periods are determined by the claim filing date, claimants can partially avoid the negative effects of this risk by strategically timing their claims. Using several new sources of administrative data from California’s Unemployment Insurance program, I make three contributions. First, I use a simple dynamic model of job search and Unemployment Insurance to show that the private welfare costs of benefit risk are large. The average claimant would trade 5% of their expected Unemployment Insurance benefits to eliminate exposure to benefit risk and this number rises substantially among young and especially low-income claimants. Second, I demonstrate that claim-timing responses can act as an effective solution to this problem. Some claimants strategically delay their claims after a job loss in order to receive higher benefits. Third, I provide suggestive evidence that information frictions are a key barrier to this mitigating behavior.
 
 - title: "Unemployment Insurance as a Worker Indiscipline Device? Evidence From Scanner Data"
   pdflink: "/pdf/ui_worker_productivity_oct2020.pdf"
