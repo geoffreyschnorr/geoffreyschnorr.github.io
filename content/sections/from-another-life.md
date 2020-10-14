@@ -1,1 +1,1 @@
-Overspending driven by oversized single dose vials of cancer drugs, with Peter Bach, Rena Conti, Raymond Mueller, and Leonard Saltz, <u>British Medical Journal</u>, 2016
+[Overspending driven by oversized single dose vials of cancer drugs](https://www.bmj.com/content/352/bmj.i788), with Peter Bach, Rena Conti, Raymond Mueller, and Leonard Saltz, <u>British Medical Journal</u>, 2016
