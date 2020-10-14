@@ -1,3 +1,5 @@
 works:
 - title: "Unemployment Insurance and Labor Supply During the Coronavirus Crisis"
   coauthors: "Alex Bell and Till von Wachter"
+  abstract: >
+  Using close to real-time administrative data from California’s Unemployment Insurance program and two research designs we estimate the causal effect of Unemployment Insurance benefit levels on unemployment duration during the Coronavirus crisis. First, we follow prior work to implement a regression kink design at the maximum weekly benefit amount. The size and comprehensiveness of our data---which includes all UI claims filed in California in the past two decades and is updated regularly with a lag of only one week---allows us to carry out this approach for claims filed during the crisis. Second, we directly estimate the effect of the Federal Pandemic Unemployment Compensation payments---which temporarily added $600 to all weekly benefit amounts---by exploiting the program’s differential effect on replacement rates across prior earnings groups (lower earners saw larger increases). Our results will contribute to a critical ongoing debate about the policy response to the crisis.
