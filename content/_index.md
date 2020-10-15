@@ -1,3 +1,3 @@
 +++
-title = "UC-Davis Economics"
+title = "UC Davis Economics"
 +++

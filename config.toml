@@ -6,5 +6,5 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD Candidate, UC-Davis"
+    shortbio = "PhD Candidate, UC Davis"
     logo = "headshot_ucd.jpg"
