@@ -2,12 +2,13 @@ works:
 - title: "Unemployment Insurance as a Worker Indiscipline Device? Evidence From Scanner Data"
   pdflink: "/pdf/ui_worker_productivity_oct2020.pdf"
   note: "Current Version: October 2020"
-  book: "2nd round R&R, American Economic Journal: Applied Economics"
+  book: "Conditionally Accepted, American Economic Journal: Applied Economics"
   coauthors: "Lester Lusher and Rebecca Taylor"
   abstract: >
     We provide causal evidence of an ex-ante moral hazard effect of Unemployment Insurance (UI) by matching plausibly exogenous changes in UI benefit duration across state-weeks during the Great Recession to high-frequency productivity measures from individual supermarket cashiers. Estimating models with day and cashier-register fixed effects, we identify a modest but statistically significant negative relationship between UI benefits and worker productivity. This effect is strongest for more experienced and less productive cashiers, for whom UI expansions are especially relevant. Additional analyses from the American Time Use Survey reveal a similar increase in shirking during periods with increased UI benefit durations.
 
 - title: "Am I my Brother's Barkeeper? Sibling Spillovers in Alcohol Consumption at the Minimum Legal Drinking Age"
   note: "Draft coming soon"
+  coauthors: "Eunju Lee"
   abstract: >
     I exploit a unique group of adolescent peers which allows for the estimation of causally interpretable peer effects in alcohol consumption, sibling pairs close to the minimum legal drinking age (MLDA) in the United States. Using a regression discontinuity design and the 1997 National Longitudinal Survey of Youth I am consistently able to rule out meaningfully large positive peer effects between siblings. I also find suggestive evidence that younger siblings reduce their alcohol consumption in response to an increase in their older sibling's alcohol consumption. These negative effects are concentrated among siblings of the same gender, siblings that reside in the same household, and especially younger siblings with less prior drinking experience.
