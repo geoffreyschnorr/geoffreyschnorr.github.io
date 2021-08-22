@@ -2,9 +2,9 @@ I'm a PhD Candidate in the [Department of Economics](https://economics.ucdavis.e
 
 My primary research interests are related to the design of social insurance and safety net programs. I am also interested in the economics of health behaviors. My recent work on the US Unemployment Insurance program has been funded by the Washington Center for Equitable Growth and the Bilinski Educational Foundation.
 
-__Fields__: Public, Labor, Health
+__[Curriculum Vitae](/pdf/schnorr_cv_19aug2021.pdf")__ (Updated August 2021)   
 
-__[Curriculum Vitae](/pdf/schnorr_cv_19aug2021.pdf")__ (Updated August 2021)
+__Fields__: Public, Labor, Health   
 
 __Email__: [gcschnorr@ucdavis.edu](gcschnorr@ucdavis.edu)    
 
