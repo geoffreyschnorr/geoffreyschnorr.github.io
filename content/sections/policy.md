@@ -5,6 +5,6 @@ I am part of a team of researchers at the California Policy Lab working with the
 
 __[Employment and Earnings Among LA County Residents Experiencing Homelessness](https://www.capolicylab.org/employment-among-la-county-residents-experiencing-homelessness/)__
 (with Nefara Riesch and Till von Wachter)
-*California Policy Lab Policy Brief, February 2020*
+*California Policy Lab Policy Brief, February 2020*  
 
 __Website__: Thanks to [Gautam Rao](https://gautam-rao.com/) and [Xinyue Lin](https://xinyue-lin.com/) for making their code publicly available.
