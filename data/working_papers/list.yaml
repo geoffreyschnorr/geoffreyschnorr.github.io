@@ -10,3 +10,9 @@ works:
   note: "Under review"
   abstract: >
     We use data on sibling pairs near the minimum legal drinking age to provide causal estimates of peer effects in alcohol consumption. Following prior work on other outcomes, we exploit the discontinuous increase in alcohol consumption of the older sibling at the legal drinking age in a regression discontinuity design. Our preferred point estimates imply that the number of binge drinking days reported by the younger sibling decreases by 27% of the mean at the cutoff. While our estimates are somewhat imprecise, we are consistently able to rule out positive estimates from the existing literature. Our research design provides estimates which are interpretable as the causal effect of the peer's alcohol consumption. This is in contrast to most prior work which instead identifies the causal effect of exposure to the peer. We explain how this distinction matters for policy.
+
+- title: "Keep Me in, Coach: Can Coaching Improve Marginal College Students' Outcomes?"
+  coauthors: "Serena Canaan, Stefanie Fischer, and Pierre Mouganie"
+  note: "Updated draft coming soon"
+  abstract: >
+    This paper evaluates a light-touch group coaching program intended to enhance college persistence of first-year students who are at risk of dropping out. Participants attend a workshop where coaches help them identify their academic difficulties and work on goal-setting and time management skills. Using a difference-in-discontinuity design, we show that the program raises students' first-year GPA and decreases first-year dropout rates. Effects are concentrated among low-income students, who also experience significant increases in their 6-year graduation rate and earnings at ages 24 to 27. Our findings indicate that targeted group coaching can be an effective way to improve marginal students' college success.
