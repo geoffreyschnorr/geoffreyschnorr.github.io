@@ -2,7 +2,7 @@ I'm a Postdoctoral Scholar with the [California Policy Lab](https://www.capolicy
 
 My primary research interests are related to the design of social insurance and safety net programs. I am also interested in the economics of health behaviors. My recent work on the US Unemployment Insurance program has been funded by the [Washington Center for Equitable Growth](https://equitablegrowth.org/grants/benefit-risk-claim-timing-and-unemployment-insurance-benefit-generosity-in-california/), the Bilinski Educational Foundation, and the [W.E. Upjohn Institute for Employment Research](https://www.upjohn.org/about/news-events/upjohn-institute-announces-2022-early-career-research-awards).
 
-__[Curriculum Vitae](/pdf/schnorr_cv_25apr2022.pdf")__ (Updated November 2021)
+__[Curriculum Vitae](/pdf/schnorr_cv_24may2022.pdf")__ (Updated May 2022)
 
 __Fields__: Public, Labor, Health
 
