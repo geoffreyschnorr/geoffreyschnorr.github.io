@@ -1,7 +1,14 @@
 works:
   - title: "Unemployment Insurance as a Worker Indiscipline Device? Evidence From Scanner Data"
     pdflink: "/pdf/ui_worker_productivity_oct2020.pdf"
-    book: "American Economic Journal: Applied Economics, Forthcoming"
+    book: "American Economic Journal: Applied Economics, 2022"
     coauthors: "Lester Lusher and Rebecca Taylor"
     abstract: >
       We provide causal evidence of an ex-ante moral hazard effect of Unemployment Insurance (UI) by matching plausibly exogenous changes in UI benefit duration across state-weeks during the Great Recession to high-frequency productivity measures from individual supermarket cashiers. Estimating models with day and cashier-register fixed effects, we identify a modest but statistically significant negative relationship between UI benefits and worker productivity. This effect is strongest for more experienced and less productive cashiers, for whom UI expansions are especially relevant. Additional analyses from the American Time Use Survey reveal a similar increase in shirking during periods with increased UI benefit durations.
+
+  - title: "Estimating the Disparate Cumulative Impact of the Pandemic in Administrative Unemployment Insurance Data"
+    pdflink: "https://www.aeaweb.org/articles?id=10.1257/pandp.20221008"
+    book: "American Economic Association Papers & Proceedings, 2022"
+    coauthors: "Alex Bell, T.J. Hedin, Peter Mannino, Roozbeh Moghadam, Carl Romer, and Till von Wachter"
+    abstract: >
+      To better measure the full extent of the impact of the COVID-19 crisis on workers and the labor market, this paper estimates three measures of the cumulative impact of the pandemic on workers across intensive and extensive margins using longitudinal administrative unemployment insurance (UI) data from California. During the first year of the crisis, 30 percent of the labor force filed a UI claim, over 50 percent of recipients spent more than 6 months on the program, and the mean work time lost was 13 weeks. Less advantaged workers and counties saw much higher rates of claiming and long-term unemployment.
