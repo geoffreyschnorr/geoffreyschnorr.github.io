@@ -12,3 +12,9 @@ works:
     coauthors: "Alex Bell, T.J. Hedin, Peter Mannino, Roozbeh Moghadam, Carl Romer, and Till von Wachter"
     abstract: >
       To better measure the full extent of the impact of the COVID-19 crisis on workers and the labor market, this paper estimates three measures of the cumulative impact of the pandemic on workers across intensive and extensive margins using longitudinal administrative unemployment insurance (UI) data from California. During the first year of the crisis, 30 percent of the labor force filed a UI claim, over 50 percent of recipients spent more than 6 months on the program, and the mean work time lost was 13 weeks. Less advantaged workers and counties saw much higher rates of claiming and long-term unemployment.
+
+  - title: "Disparities in Access to Unemployment Insurance During the COVID-19 Pandemic: Lessons from U.S. and California Claims Data}"
+    book: "RSF: The Russel Sage Foundation Journal of the Social Sciences, forthcoming"
+    coauthors: "Alex Bell, T.J. Hedin, Peter Mannino, Roozbeh Moghadam, and Till von Wachter"
+    abstract: >
+      To what extent did jobless Americans benefit from unemployment insurance (UI) during the COVID-19 pandemic? This paper documents geographic disparities in access to UI during 2020. We leverage aggregated and individual-level UI claims data to perform an integrated analysis across four measures of access to UI. In addition to the traditional UI recipiency rate, we construct rates of application among the unemployed, rates of first payment among applicants, and exhaustion rates among paid claimants. Through correlations across California counties and across states, we show that areas with more disadvantaged residents had less access to UI during the pandemic. While these disparities are large in magnitude, cross-state analysis suggests that policy can play a salient role in mitigating these disparities.
