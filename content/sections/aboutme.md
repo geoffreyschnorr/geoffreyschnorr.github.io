@@ -6,6 +6,6 @@ __[Curriculum Vitae](/pdf/schnorr_cv_8mar2023.pdf)__ (Updated March 2023)
 
 __Fields__: Public, Labor, Health
 
-__Email__: [gcschnorr@ucdavis.edu](mailto:gcschnorr@ucdavis.edu), [geoffrey.schnorr@edd.ca.gov](geoffrey.schnorr@edd.ca.gov)
+__Email__: [gcschnorr@ucdavis.edu](mailto:gcschnorr@ucdavis.edu), [geoffrey.schnorr@edd.ca.gov](mailto:geoffrey.schnorr@edd.ca.gov)
 
 __Twitter__: [@GeoffSchnorr](https://twitter.com/GeoffSchnorr)
