@@ -19,6 +19,12 @@ works:
   abstract: >
     This paper provides estimates of the effect of unemployment insurance benefits on labor supply outcomes over the business cycle using 20 years of administrative claims, earnings, and employer data from California. A regression kink design exploiting nonlinear benefit schedules provides experimental estimates of behavioral labor supply responses throughout the unemployment spell that are comparable over time. For a given unemployment duration, the behavioral effect of UI benefit levels on labor supply is unchanged over the business cycle from 2002 to 2019. However, due to increased coverage from extensions in benefit durations , the duration elasticity of UI benefits rises during recessions. The behavioral effect during the start of the COVID-19 pandemic is substantially lower at all weeks of the unemployment spell.
 
+- title: "No-Fault Job Loss? Less Moral Hazard"
+  coauthors: "Jonathan Cohen"
+  note: "Draft coming soon"
+  abstract: >
+    Unemployment insurance (UI) eligibility requires a claimant to have lost their job through no fault of their own. Approximately 10\% of claims are deemed ineligible solely based on the job separation reason. Using the systematic variation in separation-based eligibility approval rates across UI claim processing offices and examiners in California from 2002 to 2019, we show that receiving any UI benefits causes approximately 2 additional weeks of nonemployment. By replicating existing research designs for other UI policy margins within the California data, we conclude the efficiency costs of UI benefit expansions through separation-based eligibility criteria are lower compared to those of expansions through monetary eligibility, weekly benefit amount, or potential benefit duration.
+
 - title: "Claim Timing and Unemployment Insurance Benefit Generosity"
   note: "Draft coming soon"
   abstract: >
