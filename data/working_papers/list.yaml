@@ -1,13 +1,7 @@
 works:
-- title: "Am I my Brother's Barkeeper? Sibling Spillovers in Alcohol Consumption at the Minimum Legal Drinking Age"
-  pdflink: "/pdf/sibmlda_draft_26nov2022.pdf"
-  book: "Revise & Resubmit, American Journal of Health Economics"
-  coauthors: "Eunju Lee"
-  abstract: >
-    We use data on siblings near the minimum drinking age to provide causal estimates of peer effects in alcohol consumption, exploiting the increase in consumption of the older sibling in a regression discontinuity design. Preferred point estimates imply that younger sibling binge drinking decreases at the cutoff. These negative reduced form spillover effects are concentrated in subgroups where the first stage discontinuity is largest, among siblings who are likely to spend more time together, and for measures of excessive alcohol consumption. While our results are somewhat imprecise, we argue that these patterns of heterogeneity are consistent with younger siblings learning from the costs of their older siblings' drinking behavior. Our results are directly interpretable as the effect of peer alcohol consumption, whereas most prior work identifies the effect of exposure to the peer. We explain how this distinction matters for policy.
-
 - title: "Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching"
   pdflink: "/pdf/coaching_draft_25jul2022.pdf"
+  book: "Revise & Resubmit, Journal of Political Economy: Microeconomics"
   coauthors: "Serena Canaan, Stefanie Fischer, and Pierre Mouganie"
   abstract: >
     To boost college graduation rates, policymakers often advocate for academic supports such as coaching or mentoring. Proactive and intensive coaching interventions are effective, but are costly and difficult to scale. We evaluate a relatively lower-cost group coaching program targeted at first-year college students placed on academic probation. Participants attend a workshop where coaches aim to normalize failure and improve self-confidence. Coaches also facilitate a process whereby participants reflect on their academic difficulties, devise solutions to address their challenges, and create an action plan. Participants then hold a one-time follow-up meeting with their coach or visit a campus resource. Using a difference-in-discontinuity design, we show that the program raises students' first-year GPA by 14.6% of a standard deviation, and decreases the probability of first-year dropout by 8.5 percentage points. Effects are concentrated among lower-income students who also experience a significant increase in the probability of graduating.  Finally, using administrative data we provide the first evidence that coaching/mentoring may have substantial long-run effects as we document significant gains in lower-income students' earnings 7-9 years following entry to the university. Our findings indicate that targeted, group coaching can be an effective way to improve marginal students' academic and early career outcomes.
@@ -18,6 +12,13 @@ works:
   note: "Draft available upon request"
   abstract: >
     This paper provides estimates of the effect of unemployment insurance benefits on labor supply outcomes over the business cycle using 20 years of administrative claims, earnings, and employer data from California. A regression kink design exploiting nonlinear benefit schedules provides experimental estimates of behavioral labor supply responses throughout the unemployment spell that are comparable over time. For a given unemployment duration, the behavioral effect of UI benefit levels on labor supply is unchanged over the business cycle from 2002 to 2019. However, due to increased coverage from extensions in benefit durations , the duration elasticity of UI benefits rises during recessions. The behavioral effect during the start of the COVID-19 pandemic is substantially lower at all weeks of the unemployment spell.
+
+- title: "Am I my Brother's Barkeeper? Sibling Spillovers in Alcohol Consumption at the Minimum Legal Drinking Age"
+  pdflink: "/pdf/sibmlda_draft_26nov2022.pdf"
+  book: "Revise & Resubmit, American Journal of Health Economics"
+  coauthors: "Eunju Lee"
+  abstract: >
+    We use data on siblings near the minimum drinking age to provide causal estimates of peer effects in alcohol consumption, exploiting the increase in consumption of the older sibling in a regression discontinuity design. Preferred point estimates imply that younger sibling binge drinking decreases at the cutoff. These negative reduced form spillover effects are concentrated in subgroups where the first stage discontinuity is largest, among siblings who are likely to spend more time together, and for measures of excessive alcohol consumption. While our results are somewhat imprecise, we argue that these patterns of heterogeneity are consistent with younger siblings learning from the costs of their older siblings' drinking behavior. Our results are directly interpretable as the effect of peer alcohol consumption, whereas most prior work identifies the effect of exposure to the peer. We explain how this distinction matters for policy.
 
 - title: "No-Fault Job Loss? Less Moral Hazard"
   coauthors: "Jonathan Cohen"
