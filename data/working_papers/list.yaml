@@ -1,8 +1,8 @@
 works:
 - title: "Unemployment Insurance Benefit Generosity and Labor Supply from 2002-2020: Evidence from California UI Records"
+  pdflink: "/pdf/rkd_ui_bcycle_20sep2023"
   coauthors: "Alex Bell, T.J. Hedin, and Till von Wachter"
   book: "Conditionally accepted, Journal of Labor Economics"
-  note: "Draft available upon request"
   abstract: >
     This paper provides estimates of the effect of unemployment insurance benefits on labor supply outcomes over the business cycle using 20 years of administrative claims, earnings, and employer data from California. A regression kink design exploiting nonlinear benefit schedules provides experimental estimates of behavioral labor supply responses throughout the unemployment spell that are comparable over time. For a given unemployment duration, the behavioral effect of UI benefit levels on labor supply is unchanged over the business cycle from 2002 to 2019. However, due to increased coverage from extensions in benefit durations , the duration elasticity of UI benefits rises during recessions. The behavioral effect during the start of the COVID-19 pandemic is substantially lower at all weeks of the unemployment spell.
 
@@ -20,13 +20,13 @@ works:
   abstract: >
     We use data on siblings near the minimum drinking age to provide causal estimates of peer effects in alcohol consumption, exploiting the increase in consumption of the older sibling in a regression discontinuity design. Preferred point estimates imply that younger sibling binge drinking decreases at the cutoff. These negative reduced form spillover effects are concentrated in subgroups where the first stage discontinuity is largest, among siblings who are likely to spend more time together, and for measures of excessive alcohol consumption. While our results are somewhat imprecise, we argue that these patterns of heterogeneity are consistent with younger siblings learning from the costs of their older siblings' drinking behavior. Our results are directly interpretable as the effect of peer alcohol consumption, whereas most prior work identifies the effect of exposure to the peer. We explain how this distinction matters for policy.
 
-- title: "No-Fault Job Loss? Less Moral Hazard"
-  coauthors: "Jonathan Cohen"
-  note: "Draft coming soon"
-  abstract: >
-    Unemployment insurance (UI) eligibility requires a claimant to have lost their job through no fault of their own. Approximately 10% of claims are deemed ineligible solely based on the job separation reason. Using the systematic variation in separation-based eligibility approval rates across UI claim processing offices and examiners in California from 2002 to 2019, we show that receiving any UI benefits causes approximately 2 additional weeks of nonemployment. By replicating existing research designs for other UI policy margins within the California data, we conclude the efficiency costs of UI benefit expansions through separation-based eligibility criteria are lower compared to those of expansions through monetary eligibility, weekly benefit amount, or potential benefit duration.
-
 - title: "Claim Timing and Unemployment Insurance Benefit Generosity"
   note: "Draft coming soon"
   abstract: >
     Unemployment Insurance replaces a percentage of prior earnings while a claimant is out of work. To implement the program, policymakers must define a base period from which prior earnings are measured. I analyze two implications of this previously unexamined policy choice. First, for claimants with volatile enough earnings, a commonly used base period structure creates ''benefit risk''---a job loss at the wrong time implies lower benefit amounts. Second, since base periods are determined by the claim filing date, claimants can partially avoid the negative effects of this risk by strategically timing their claims. Using several new sources of administrative data from California’s Unemployment Insurance program, I make three contributions. First, I use a simple dynamic model of job search and Unemployment Insurance to show that the private welfare costs of benefit risk are large. The average claimant would trade 5% of their expected Unemployment Insurance benefits to eliminate exposure to benefit risk and this number rises substantially among young and especially low-income claimants. Second, I demonstrate that claim-timing responses can act as an effective solution to this problem. Some claimants strategically delay their claims after a job loss in order to receive higher benefits. Third, I provide suggestive evidence that information frictions are a key barrier to this mitigating behavior.
+
+- title: "Explaining the Rise in Unemployment Insurance Take-Up Rates During the COVID-19 Pandemic"
+  coauthors: Till von Wachter
+  note: "Draft coming soon"
+  abstract: >
+    We study incomplete take-up of Unemployment Insurance (UI) benefits using administrative micro-data from the State of California (CA). We show that take-up rates increased sharply during the pandemic, from just under 30% in 2019q4 to just over 70% in 2020q2, and that the severity of the economic downturn explains the majority of this increase.  Relying on variation in pandemic-related employment losses across local labor markets, we estimate that 56% of the pandemic-era increase in the take-up rate is explained by the severity of the recession. Using variation in replacement rates across earnings groups created by the Federal Pandemic Unemployment Compensation program, we estimate that benefit generosity explains no more than 17\% of the rise in take-up rates. Detailed payment-level administrative UI data allows us to further estimate that the PUA program explains 11\% of the increase. Our data also allows to provide a uniquely detailed assessment of predictors of take-up over the past three business cycles. Local economic conditions, industry, geography, and prior earnings levels are strong predictors of take-up.
