@@ -19,10 +19,3 @@ works:
     coauthors: "Alex Bell, T.J. Hedin, Peter Mannino, Roozbeh Moghadam, and Till von Wachter"
     abstract: >
       To what extent did jobless Americans benefit from unemployment insurance (UI) during the COVID-19 pandemic? This paper documents geographic disparities in access to UI during 2020. We leverage aggregated and individual-level UI claims data to perform an integrated analysis across four measures of access to UI. In addition to the traditional UI recipiency rate, we construct rates of application among the unemployed, rates of first payment among applicants, and exhaustion rates among paid claimants. Through correlations across California counties and across states, we show that areas with more disadvantaged residents had less access to UI during the pandemic. While these disparities are large in magnitude, cross-state analysis suggests that policy can play a salient role in mitigating these disparities.
-
-  - title: "Unemployment Insurance Benefit Generosity and Labor Supply from 2002-2020: Evidence from California UI Records"
-  pdflink: "/pdf/rkd_ui_bcycle_20sep2023.pdf"
-  coauthors: "Alex Bell, T.J. Hedin, and Till von Wachter"
-  book: "Conditionally accepted, Journal of Labor Economics"
-  abstract: >
-    This paper provides estimates of the effect of unemployment insurance benefits on labor supply outcomes over the business cycle using 20 years of administrative claims, earnings, and employer data from California. A regression kink design exploiting nonlinear benefit schedules provides experimental estimates of behavioral labor supply responses throughout the unemployment spell that are comparable over time. For a given unemployment duration, the behavioral effect of UI benefit levels on labor supply is unchanged over the business cycle from 2002 to 2019. However, due to increased coverage from extensions in benefit durations , the duration elasticity of UI benefits rises during recessions. The behavioral effect during the start of the COVID-19 pandemic is substantially lower at all weeks of the unemployment spell.
