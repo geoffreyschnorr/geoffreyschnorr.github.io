@@ -5,9 +5,6 @@
 {{ with .GetPage "/sections/office-hours.md" }}
 <p class="contactinfo"><a href="{{ "#officehours" | relURL }}">Office Hours</a></p>
 {{ end }}
-{{ with .Site.Data.jmp }}
-<p class="contactinfo"><a href="{{ "#jmp" | relURL }}">Job Market Paper</a></p>
-{{ end }}
 {{ with .Site.Data.publications }}
 <p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
 {{ end }}
