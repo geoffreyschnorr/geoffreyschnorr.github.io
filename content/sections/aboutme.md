@@ -6,6 +6,6 @@ __[Curriculum Vitae](/pdf/schnorr_cv_20240723.pdf)__ (Updated July 2024)
 
 __Fields__: Public, Labor, Health
 
-__Email__: [geoffrey.schnorr@westpoint.edu](mailto:geoffreyschnorr@westpoint.edu), [gcschnorr@gmail.com](mailto:gcschnorr@gmail.com)
+__Email__: [geoffrey.schnorr@westpoint.edu](mailto:geoffrey.schnorr@westpoint.edu), [gcschnorr@gmail.com](mailto:gcschnorr@gmail.com)
 
 __Twitter__: [@GeoffSchnorr](https://twitter.com/GeoffSchnorr)
