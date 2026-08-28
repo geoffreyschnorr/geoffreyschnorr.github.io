@@ -1,5 +1,4 @@
-:root,
-:root[data-theme="light"] {
+:root {
   --page-background: #f3f6f5;
   --text-primary: #1d2927;
   --text-secondary: #61706d;
@@ -95,96 +94,8 @@ header ul a:active {
   background-color: var(--soft-accent);
 }
 
-.theme-toggle {
-  align-items: center;
-  background: transparent;
-  border: 0;
-  color: var(--text-secondary);
-  cursor: pointer;
-  display: flex;
-  font: 600 11px/1 "Figtree", "Helvetica Neue", Arial, sans-serif;
-  gap: 9px;
-  letter-spacing: 0.04em;
-  margin: 6px 0 32px;
-  padding: 0;
-  text-transform: uppercase;
-}
-
-.theme-toggle:hover,
-.theme-toggle:focus-visible {
-  background: transparent;
-  color: var(--link-hover);
-}
-
-.theme-toggle:focus-visible {
-  outline: 2px solid var(--link);
-  outline-offset: 5px;
-}
-
-.theme-toggle-label {
-  color: var(--text-secondary);
-  transition: color 160ms ease;
-}
-
-.theme-toggle[aria-pressed="true"] .theme-toggle-dark,
-.theme-toggle[aria-pressed="false"] .theme-toggle-light {
-  color: var(--text-primary);
-}
-
-.theme-toggle-track {
-  background: var(--rule);
-  border-radius: 999px;
-  display: block;
-  height: 26px;
-  padding: 3px;
-  width: 48px;
-}
-
-.theme-toggle-thumb {
-  background: var(--link);
-  border-radius: 50%;
-  display: block;
-  height: 20px;
-  transform: translateX(22px);
-  transition: background-color 160ms ease, transform 160ms ease;
-  width: 20px;
-}
-
-.theme-toggle[aria-pressed="true"] .theme-toggle-thumb {
-  transform: translateX(0);
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .theme-toggle-label,
-  .theme-toggle-thumb {
-    transition: none;
-  }
-}
-
-:root[data-theme="dark"] {
-  --page-background: #14201f;
-  --text-primary: #e2ece9;
-  --text-secondary: #9eaeaa;
-  --heading: #e2ece9;
-  --link: #65c1b8;
-  --link-hover: #8dd5ce;
-  --accent: #df9565;
-  --rule: #344744;
-  --soft-accent: rgba(101, 193, 184, 0.10);
-}
-
-:root[data-theme="dark"] code,
-:root[data-theme="dark"] pre {
-  color: var(--text-primary);
-}
-
-:root[data-theme="dark"] pre {
-  background: rgba(0, 0, 0, 0.16);
-  border-color: var(--rule);
-}
-
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
+  :root {
     --page-background: #14201f;
     --text-primary: #e2ece9;
     --text-secondary: #9eaeaa;
@@ -196,12 +107,12 @@ header ul a:active {
     --soft-accent: rgba(101, 193, 184, 0.10);
   }
 
-  :root:not([data-theme]) code,
-  :root:not([data-theme]) pre {
+  code,
+  pre {
     color: var(--text-primary);
   }
 
-  :root:not([data-theme]) pre {
+  pre {
     background: rgba(0, 0, 0, 0.16);
     border-color: var(--rule);
   }

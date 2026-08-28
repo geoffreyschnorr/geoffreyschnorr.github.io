@@ -3,60 +3,6 @@
     </div>
     <script src="{{ "js/scale.fix.js" | relURL }}"></script>
     <script>
-        (function () {
-            var root = document.documentElement;
-            var toggleButton = document.getElementById("theme-toggle");
-            var systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
-
-            function updateToggle(theme) {
-                var isDark = theme === "dark";
-                toggleButton.setAttribute("aria-pressed", isDark.toString());
-                toggleButton.setAttribute(
-                    "aria-label",
-                    isDark ? "Switch to light mode" : "Switch to dark mode"
-                );
-            }
-
-            function applyTheme(theme, remember) {
-                root.dataset.theme = theme;
-                updateToggle(theme);
-                if (remember) {
-                    try {
-                        localStorage.setItem("theme-preference", theme);
-                    }
-                    catch (error) {
-                        // The selected theme still applies when storage is unavailable.
-                    }
-                }
-            }
-
-            toggleButton.addEventListener("click", function () {
-                applyTheme(root.dataset.theme === "dark" ? "light" : "dark", true);
-            });
-
-            function followSystemTheme(event) {
-                var savedPreference;
-                try {
-                    savedPreference = localStorage.getItem("theme-preference");
-                }
-                catch (error) {
-                    savedPreference = null;
-                }
-                if (savedPreference !== "light" && savedPreference !== "dark") {
-                    applyTheme(event.matches ? "dark" : "light", false);
-                }
-            }
-
-            if (typeof systemTheme.addEventListener === "function") {
-                systemTheme.addEventListener("change", followSystemTheme);
-            }
-            else if (typeof systemTheme.addListener === "function") {
-                systemTheme.addListener(followSystemTheme);
-            }
-
-            updateToggle(root.dataset.theme);
-        }());
-
         function toggle(pid) {
             objid = "pubabs_" + pid.toString();
             linkid = "pubabslink_" + pid.toString();
