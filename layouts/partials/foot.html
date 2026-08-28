@@ -6,15 +6,11 @@
         (function () {
             var root = document.documentElement;
             var toggleButton = document.getElementById("theme-toggle");
-            var toggleIcon = toggleButton.querySelector(".theme-toggle-icon");
-            var toggleLabel = toggleButton.querySelector(".theme-toggle-label");
             var systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
 
             function updateToggle(theme) {
                 var isDark = theme === "dark";
                 toggleButton.setAttribute("aria-pressed", isDark.toString());
-                toggleIcon.textContent = isDark ? "☀" : "☾";
-                toggleLabel.textContent = isDark ? "Light mode" : "Dark mode";
                 toggleButton.setAttribute(
                     "aria-label",
                     isDark ? "Switch to light mode" : "Switch to dark mode"
@@ -38,7 +34,7 @@
                 applyTheme(root.dataset.theme === "dark" ? "light" : "dark", true);
             });
 
-            systemTheme.addEventListener("change", function (event) {
+            function followSystemTheme(event) {
                 var savedPreference;
                 try {
                     savedPreference = localStorage.getItem("theme-preference");
@@ -49,7 +45,14 @@
                 if (savedPreference !== "light" && savedPreference !== "dark") {
                     applyTheme(event.matches ? "dark" : "light", false);
                 }
-            });
+            }
+
+            if (typeof systemTheme.addEventListener === "function") {
+                systemTheme.addEventListener("change", followSystemTheme);
+            }
+            else if (typeof systemTheme.addListener === "function") {
+                systemTheme.addListener(followSystemTheme);
+            }
 
             updateToggle(root.dataset.theme);
         }());

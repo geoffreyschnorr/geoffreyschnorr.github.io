@@ -98,26 +98,67 @@ header ul a:active {
 .theme-toggle {
   align-items: center;
   background: transparent;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  color: var(--link);
+  border: 0;
+  color: var(--text-secondary);
   cursor: pointer;
-  display: inline-flex;
-  font: 500 13px/1 "Figtree", "Helvetica Neue", Arial, sans-serif;
-  gap: 7px;
-  margin: 0 0 20px;
-  padding: 8px 12px;
+  display: flex;
+  font: 600 11px/1 "Figtree", "Helvetica Neue", Arial, sans-serif;
+  gap: 9px;
+  letter-spacing: 0.04em;
+  margin: 6px 0 32px;
+  padding: 0;
+  text-transform: uppercase;
 }
 
 .theme-toggle:hover,
 .theme-toggle:focus-visible {
-  background: var(--soft-accent);
+  background: transparent;
   color: var(--link-hover);
 }
 
-.theme-toggle-icon {
-  font-size: 16px;
-  line-height: 1;
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 5px;
+}
+
+.theme-toggle-label {
+  color: var(--text-secondary);
+  transition: color 160ms ease;
+}
+
+.theme-toggle[aria-pressed="true"] .theme-toggle-dark,
+.theme-toggle[aria-pressed="false"] .theme-toggle-light {
+  color: var(--text-primary);
+}
+
+.theme-toggle-track {
+  background: var(--rule);
+  border-radius: 999px;
+  display: block;
+  height: 26px;
+  padding: 3px;
+  width: 48px;
+}
+
+.theme-toggle-thumb {
+  background: var(--link);
+  border-radius: 50%;
+  display: block;
+  height: 20px;
+  transform: translateX(22px);
+  transition: background-color 160ms ease, transform 160ms ease;
+  width: 20px;
+}
+
+.theme-toggle[aria-pressed="true"] .theme-toggle-thumb {
+  transform: translateX(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle-label,
+  .theme-toggle-thumb {
+    transition: none;
+  }
 }
 
 :root[data-theme="dark"] {
