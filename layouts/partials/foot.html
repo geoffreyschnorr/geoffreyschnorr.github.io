@@ -1,0 +1,73 @@
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "js/scale.fix.js" | relURL }}"></script>
+    <script>
+        (function () {
+            var root = document.documentElement;
+            var toggleButton = document.getElementById("theme-toggle");
+            var toggleIcon = toggleButton.querySelector(".theme-toggle-icon");
+            var toggleLabel = toggleButton.querySelector(".theme-toggle-label");
+            var systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
+
+            function updateToggle(theme) {
+                var isDark = theme === "dark";
+                toggleButton.setAttribute("aria-pressed", isDark.toString());
+                toggleIcon.textContent = isDark ? "☀" : "☾";
+                toggleLabel.textContent = isDark ? "Light mode" : "Dark mode";
+                toggleButton.setAttribute(
+                    "aria-label",
+                    isDark ? "Switch to light mode" : "Switch to dark mode"
+                );
+            }
+
+            function applyTheme(theme, remember) {
+                root.dataset.theme = theme;
+                updateToggle(theme);
+                if (remember) {
+                    try {
+                        localStorage.setItem("theme-preference", theme);
+                    }
+                    catch (error) {
+                        // The selected theme still applies when storage is unavailable.
+                    }
+                }
+            }
+
+            toggleButton.addEventListener("click", function () {
+                applyTheme(root.dataset.theme === "dark" ? "light" : "dark", true);
+            });
+
+            systemTheme.addEventListener("change", function (event) {
+                var savedPreference;
+                try {
+                    savedPreference = localStorage.getItem("theme-preference");
+                }
+                catch (error) {
+                    savedPreference = null;
+                }
+                if (savedPreference !== "light" && savedPreference !== "dark") {
+                    applyTheme(event.matches ? "dark" : "light", false);
+                }
+            });
+
+            updateToggle(root.dataset.theme);
+        }());
+
+        function toggle(pid) {
+            objid = "pubabs_" + pid.toString();
+            linkid = "pubabslink_" + pid.toString();
+            absobj = document.getElementById(objid);
+            linkobj = document.getElementById(linkid);
+            if (absobj.style.display === "none") {
+                absobj.style.display = "inline";
+                linkobj.style.display = "none";
+            }
+            else {
+                absobj.style.display = "none";
+                linkobj.style.display = "inline";
+            }
+        }
+    </script>
+  </body>
+</html>
